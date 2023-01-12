@@ -1,11 +1,11 @@
 
 <h1 align="center">
- 👋 Hi, I'm mahmoud miehob!
+ 👋 Hi, I'm Ishaan Chawla!
 </h1>
  
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;laravel+developer;fullstack+developer" > 
+<img src="![image](https://user-images.githubusercontent.com/37042014/211953810-c40d618c-82d1-4abd-9c0f-4248d2a5e914.png)" alt="Ishaan Memoji"> 
 </p>
 
 
