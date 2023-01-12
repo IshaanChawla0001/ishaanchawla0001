@@ -1,7 +1,8 @@
 # Hi there 👋 
 ![image](https://user-images.githubusercontent.com/37042014/211953810-c40d618c-82d1-4abd-9c0f-4248d2a5e914.png)
-### I'm Ishaan Chawla! from https://www.ishaanchawla.info/
-### I am a Software Development Engineer based in the United States and i have been building noteworthy software, which comply with the latest design trends. I helpconvert a vision and an idea into meaningful and useful products. Having a sharp eye for product evolution helps me prioritize tasks, iterate fast and deliver faster.
+# I'm Ishaan Chawla! My Website :	🌐 https://www.ishaanchawla.info/ 
+# I am a Software Development Engineer based in the United States and i have been building noteworthy software, which comply with the latest design trends. I helpconvert a vision and an idea into meaningful and useful products. Having a sharp eye for product evolution helps me prioritize tasks, iterate fast and deliver faster.
+# My favorite tech stack :octocat: is: HTML, CSS, JavaScript, React and much more. 
 
 
 
