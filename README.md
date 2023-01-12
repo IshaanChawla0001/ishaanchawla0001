@@ -2,16 +2,10 @@
 <h1 align="center">
  👋 Hi, I'm Ishaan Chawla!
 </h1>
- 
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/37042014/211953810-c40d618c-82d1-4abd-9c0f-4248d2a5e914.png)" alt="Ishaan Memoji"> 
-</p>
-
 
 </br> 
 
-<a href="#"><img  width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img  width="100%" height="auto" src="![image](https://user-images.githubusercontent.com/37042014/211953810-c40d618c-82d1-4abd-9c0f-4248d2a5e914.png)" height="175px"/></a>
 
 </br>
 
